@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AirlinePacker</string>
+    <string name="new_list">New List...</string>
+    <string name="view_lists_description">View Lists</string>
+    <string name="view_lists">View Lists...</string>
+    <string name="home_title">Welcome to AirlinePacker!</string>
+    <string name="new_list_description">New List</string>
+    <string name="enter_new_airline">Enter New Airline...</string>
+    <string name="table_value_text">Value of Item ($)</string>
+    <string name="table_weight_text">Weight of Item (lb)</string>
+    <string name="table_item_text">Item Name</string>
+    <string name="hint">...</string>
+    <string name="home">Home</string>
+    <string name="add_new_line">Add New Line</string>
+    <string name="item_name">Item name</string>
+    <string name="item">Item</string>
+    <string name="checklist">Checklist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank">...</string>
+    <string name="listName">...</string>
+</resources>
